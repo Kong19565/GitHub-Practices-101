@@ -1,8 +1,7 @@
 # GitHub-Practices-101
  
 My group have 
--darunpop pitakkitpaisarn 6710301007
--
--
-
-pongkarm is comed ^-^
+1.Darunpop pitakkitpaisarn 6710301007
+2.Apisak Kongphakdee 6710301009
+3.
+4.
